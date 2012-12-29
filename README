@@ -1,0 +1,9 @@
+Email Read Notification
+
+Emails a notification when someone has viewed your email.
+
+Usage: Send your email in HTML format and include an image with URL pointing to this script.
+
+Set an id parameter to identify the email (such as the email subject or a numeric ID), like: 
+<img src="http://example.com/img.php?id=Welcome%20Friend">
+which will email you a notification that the recipient has opened your "Welcome Friend" email.
